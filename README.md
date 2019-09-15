@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application allows a user to track up to 10 stock symbols from a single web portal. Planned functionality includes the ability to find and modify the selected stocks by ticker and also find and modify a friends list by user name or email.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This application utilizes Rails 2.5.3.
